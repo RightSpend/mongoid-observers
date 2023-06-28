@@ -15,3 +15,5 @@ spec/tmp
 test/tmp
 test/version_tmp
 tmp
+.ruby-gemset
+.ruby-version
